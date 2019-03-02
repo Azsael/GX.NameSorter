@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GX.NameSorter.Runner": {
+      "commandName": "Project",
+      "commandLineArgs": "./unsorted-names-list.txt"
+    }
+  }
+}
