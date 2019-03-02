@@ -1,12 +1,16 @@
 # GX.NameSorter
+[![Build Status](https://travis-ci.com/Azsael/GX.NameSorter.svg?branch=master)](https://travis-ci.com/Azsael/GX.NameSorter)
 
 Implemented as per spec.pdf
+
 
 ## To Run Console App
 
 dotnet restore
 dotnet build
-dotnet run --project GX.NameSorter.Runner
+dotnet run --project GX.NameSorter.Runner ./GX.NameSorter.Runner/unsorted-names-list.txt
+
+Or run it from cmd line from bin directory :)
 
 ## To Test
 
